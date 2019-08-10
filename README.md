@@ -1,4 +1,4 @@
-# AWS Certified Developer - Associate
+# Amazon AWS Certified Developer - Associate
 
 ## Certificate Number: B1KQF2W1MBQQQS3W
 - Certificate Valid Date:
